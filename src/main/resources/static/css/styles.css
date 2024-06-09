@@ -1,0 +1,25 @@
+.cor-principal{
+    background-color: #12243C !important;
+}
+
+.cor-menu, .tabela-cabecalho, .container-formulario, .container-filtro{
+    background-color: #1A3457 !important;
+}
+
+.tabela{
+    color: #0DCAF0;
+    border-width: 5px;
+    border-color: #1A3457;
+}
+
+.tabela-linha tr:hover{
+    background-color: #1A3457;
+}
+
+.tabela-linha{
+    cursor: pointer;
+}
+
+.container-tabela{
+    background-color: #12243C;
+}
